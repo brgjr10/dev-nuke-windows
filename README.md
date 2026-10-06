@@ -1,3 +1,4 @@
+<img width="1678" height="937" alt="bcb9b7b0-a1d2-49ce-8081-7d172db0a993" src="https://github.com/user-attachments/assets/cab846d7-d9a0-47a6-84c6-400863db0814" />
 # dev-nuke-windows
 
 A nuclear option for clearing developer bloat on Windows. Kills hung dev processes, cleans temp folders, and clears package caches in one shot.
